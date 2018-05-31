@@ -1,0 +1,6 @@
+**/*.toolbox/*/
+**/*.toolbox/*___*_SnapShot_*.launch
+**/*.toolbox/*.pmap
+**/*.toolbox/.project
+**/*.toolbox/.settings/
+*.old
